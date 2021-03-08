@@ -1,0 +1,71 @@
+{
+  "main": {
+    "name": "Yvesen(Zixiao) Sun",
+    "occupation": "Full-Stack Developer",
+    "description": "A true team player and passionate programmer.",
+    "image": "IMG_6386_2.jpg",
+    "bio": "My name is Yvesen, I'm a Full Stack  Developer.",
+    "contactmessage": "Get in touch with me to receive further details or anything else.",
+    "email": "yvesen.sun@gmail.com",
+    "phone": "+1 647 561 2279",
+    "address": {
+      "street": "24 William Paddison Dr.",
+      "city": "Barrie",
+      "state": "Canada",
+      "zip": "L4M 0G3"
+    },
+    "website": "",
+    "resumedownload": "http://timbakerdev.com",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/yvesen.sun/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/yvesen-sun-781574180/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/yvesen.sun/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/Yvesenlll",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+
+  "portfolio": {
+    "projects": [
+      {
+        "title": "SnapChat Clone",
+        "category": "SNAPCHAT with REACT.JS (with Camera, REDUX & Firebase)",
+        "image": "Snapchat-Clone.png",
+        "url":"https://snapchat-clone-yv.web.app/chats"
+      },
+      {
+        "title": "Yibrary",
+        "category": "A personal blog build by React.JS",
+        "image":"Yibrary.png",
+        "url":"https://yibrary.herokuapp.com/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user": "Kareem Abdul Jabbar"
+      },
+      {
+        "text": "That Sonny Sangha must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
